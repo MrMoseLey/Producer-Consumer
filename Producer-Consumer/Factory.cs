@@ -4,6 +4,6 @@
     {
         public Tray Tray { get; set; }
         public Guest Guest { get; set; }
-        public int Food { get; set; }
+        public Food Food { get; set; }
     }
 }

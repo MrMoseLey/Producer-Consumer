@@ -4,7 +4,6 @@
     {
         Cake,
         Drink,
-        Cookie,
-        None
+        Cookie
     }
 }
